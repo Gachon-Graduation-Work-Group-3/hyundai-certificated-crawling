@@ -1,0 +1,9 @@
+check.ipynb
+
+.ipynb_checkpoints
+
+__pycache__
+
+dataset/*
+
+venv
